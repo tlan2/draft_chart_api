@@ -1,8 +1,10 @@
 # Fantasy Football Draft Tier Charts by Position
-![Example](charts/qb.jpg)
+![Example](charts/qb.png)
 
 
-A Python program that uses the Pandas, matplotlib, seaborn and other libraries to create a dumbbell showing important draft information by position. Dependent on data from fantasyfootballcalculator.com's draft API. BIG Shoutout to [@nathanbraun](https://github.com/nathanbraun) and his book [Learn to Code with Fantasy Football](https://fantasycoding.com/) serving as inspiration for this project. Also thanks to my professor Kristin Tufte for her support and oversight on this project. 
+A Python program that uses the Pandas, matplotlib, seaborn and other libraries to create a dumbbell showing important draft information by position. Dependent on data from fantasyfootballcalculator.com's draft API. 
+
+BIG Shoutout to [@nathanbraun](https://github.com/nathanbraun) and his book [Learn to Code with Fantasy Football](https://fantasycoding.com/) serving as inspiration for this project. Also thanks to my professor Kristin Tufte for her support and oversight on this project. 
 
 ## Additional Documentation
 * [Final Report](https://docs.google.com/document/d/1lN7iKECzaJkH3gpvY5clNCtNwel7trGcqxQdevyN9eU/edit?usp=sharing)
@@ -18,23 +20,23 @@ Note: This is tested on Windows. Mac and Linux will have a slightly different se
 
 ## 2019 Draft Tier Charts by Position
 
-* Home:
+* Running Backs 1st Half Tier Rankings
 
-![Home](screenshots/home.jpg)
+![RB1](charts/rb1.png)
 
-* Coach's Area:
+* Running Backs 2nd Half Tier Rankings
 
-![Coach Area](screenshots/coach.jpg)
+![RB2](charts/rb2.png)
 
-* Coach Question Result:
+* Wide Receivers 1st Half Tier Rankings
 
-![Coach Question Result](screenshots/coachAnswer.jpg)
+![WR1](charts/wr1.png)
 
-* Fan Area:
+* Wide Receivers 2nd Half Tier Rankings
 
-![Fan Area](screenshots/fan.png)
+![WR2](charts/wr2.png)
 
-* Fan Question Result:
+* Tight End Tier Rankings
 
-![Fan Question Result](screenshots/fanAnswer.jpg)
+![TE](charts/te.png)
 
